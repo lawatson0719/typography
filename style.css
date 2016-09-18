@@ -1,1 +1,108 @@
+header.entry-header {
+	font-family: "Franklin ITC Light", sans-serif;
+	text-align: center;
+}
+
+h1.entry-title {
+	font-weight: bold;
+	font-size: 36px;
+	padding: 5px;
+	margin-top: 75px;
+	margin-bottom:	6px;	
+}
+
+p.entry-details span span {
+	font-weight: bold;
+	padding-right: ;
+}
+
+p.entry-details {
+	text-align: center;
+	font-size: 14px;
+}
+
+p.entry-meta.optional-break  {
+	font-size: 12px;
+}
+
+time.pubdate.updated:before {
+	content: "	\2022     ";
+	padding: 3px;
+
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div.main-content {
+	font-size: 16px;
+	font-family: Georgia;
+	margin: 24px 150px 18px 150px;
+}
+
+
+div.main-content p:first-child {
+	font-size: 20px;
+}
+
+div.main-content ol li, ul li {
+	margin: .9em 10% .9em 0;
+}
+
+div.main-content ol {
+	margin-bottom: 30px;
+}
+
+
+h2#section1,#section2,#section9,#section10 {
+	font-weight: bold;
+	font-size: 20px;
+	color: #BA2935;
+	font-family: sans-serif;
+	margin: 36px 0 14px	0;
+}
+
+h3#section3,#section4,#section5,#section6,#section7,#section8 {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-family: sans-serif;
+	margin: 18px 0 -10px 0;
+}
+
+div.main-content p {
+	line-height: 150%
+
+}
+
+figure.quote#figure1,#figure2 {
+	font-style: italic;
+	border-left: 1px dotted #D4D4D4;
+	margin: 0;
+	padding-bottom: 3px;
+	
+}
+
+
+figure.quote figcaption:before {
+	content: "\2013";
+}
+ 
+figure.quote figcaption { 
+	font-size: 12px;
+	margin: 12px 0 12px 20px;
+}
+
+blockquote {
+	margin: 10px;
+}
+
+
+
+
 
